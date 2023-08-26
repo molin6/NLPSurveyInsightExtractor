@@ -1,4 +1,3 @@
-# NLPSurveyInsightExtractor
 # 📊 NLP Survey Insight Extractor
 
 **NLP Survey Insight Extractor** is specifically designed to process and analyze survey results sourced **exclusively from Excel files** 📈. By leveraging advanced Natural Language Processing (NLP) techniques, this toolkit offers the capability to decipher, categorize, and highlight the primary themes and sentiments of feedback.
