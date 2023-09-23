@@ -21,7 +21,7 @@ This repository focuses on understanding survey data from Excel files, ensuring 
 
 ## 🚀 Getting Started
 
-1. **Setup**: Clone the repository and install the necessary libraries.
+1. **Setup**: Clone the repository and install the necessary libraries. OpenAI key needed others are free.
 2. **Data Preparation**: Prepare your Excel file with survey responses. The scripts directly reference sheet names and column headers, so keep them handy.
 3. **Run the Scripts**: Select the appropriate script based on your analysis requirements and execute.
 4. **Interpret and Act**: Leverage the extracted insights to make informed decisions or adjustments based on feedback.
